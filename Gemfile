@@ -6,11 +6,4 @@ group :development do
 gem "pry"
 end
 
-source "https://rubygems.org"
-gem ""
-gem "hashie"
- 
-group :development do
-gem "pry"
-end
 
