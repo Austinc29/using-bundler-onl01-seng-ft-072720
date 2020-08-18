@@ -9,10 +9,10 @@ group :development do
 gem 'pry'
 end
 
-source ""
+source "https://github.com/awesome-print/awesome_print.git"
+gem 'awesome_print'
 
 
  
 group :development do
-gem 'pry'
 end
