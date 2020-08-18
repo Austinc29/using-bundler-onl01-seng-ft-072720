@@ -7,7 +7,7 @@ gem "pry"
 end
 
 source "https://rubygems.org"
-gem "rspec"
+gem ""
 gem "hashie"
  
 group :development do
