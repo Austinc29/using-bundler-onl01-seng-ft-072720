@@ -9,7 +9,7 @@ group :development do
 gem 'pry'
 end
 
-source ""
+source "git@github.com:awesome-print/awesome_print.git"
 gem 'awesome_print'
 
 
